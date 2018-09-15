@@ -1,0 +1,71 @@
+{
+  "config": {
+    "glass_width": 9,
+    "glass_height": 15,
+    "gravity": 9.81,
+    "liquid_density": 1000,
+    "liquid_level": 9
+  },
+  "elements": [
+    {
+      "radius": 0.2,
+      "density": 900,
+      "position_x": 0.5,
+      "position_y": 14
+    },
+    {
+      "radius": 0.3,
+      "density": 1000,
+      "position_x": 1.2,
+      "position_y": 14
+    },
+    {
+      "radius": 0.5,
+      "density": 1100,
+      "position_x": 2.2,
+      "position_y": 14
+    },
+    {
+      "radius": 0.15,
+      "density": 200,
+      "position_x": 2.9,
+      "position_y": 14
+    },
+    {
+      "radius": 0.4,
+      "density": 4000,
+      "position_x": 3.8,
+      "position_y": 14
+    },
+    {
+      "radius": 0.2,
+      "density": 900,
+      "position_x": 4.5,
+      "position_y": 5
+    },
+    {
+      "radius": 0.3,
+      "density": 1000,
+      "position_x": 5.2,
+      "position_y": 5
+    },
+    {
+      "radius": 0.5,
+      "density": 1100,
+      "position_x": 6.2,
+      "position_y": 5
+    },
+    {
+      "radius": 0.15,
+      "density": 200,
+      "position_x": 6.9,
+      "position_y": 5
+    },
+    {
+      "radius": 0.4,
+      "density": 4000,
+      "position_x": 7.8,
+      "position_y": 5
+    }
+  ]
+}
